@@ -8,7 +8,7 @@
 </head>
 <body>
 
-index.jsp파일4
+index.jsp test
 
 </body>
 </html>
