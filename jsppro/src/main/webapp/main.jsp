@@ -8,9 +8,13 @@
 </head>
 <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
 main.jsp(master)
 =======
 main.jsp(user2)
 >>>>>>> user2
+=======
+main(user1)
+>>>>>>> user1
 </body>
 </html>
