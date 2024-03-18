@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-main.jsp(user1)
+main(user1)
 </body>
 </html>
