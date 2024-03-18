@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 main.jsp(master)
+=======
+main.jsp(user2)
+>>>>>>> user2
 </body>
 </html>
